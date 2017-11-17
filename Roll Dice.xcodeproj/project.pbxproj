@@ -12,6 +12,7 @@
 		6AA2D06C1FBF5F72004AAA34 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AA2D06A1FBF5F72004AAA34 /* Main.storyboard */; };
 		6AA2D06E1FBF5F72004AAA34 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AA2D06D1FBF5F72004AAA34 /* Assets.xcassets */; };
 		6AA2D0711FBF5F73004AAA34 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AA2D06F1FBF5F73004AAA34 /* LaunchScreen.storyboard */; };
+		6AA2D0791FBF66B6004AAA34 /* American Captain.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6AA2D0781FBF66B6004AAA34 /* American Captain.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6AA2D06D1FBF5F72004AAA34 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6AA2D0701FBF5F73004AAA34 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6AA2D0721FBF5F73004AAA34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6AA2D0781FBF66B6004AAA34 /* American Captain.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "American Captain.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				6AA2D06D1FBF5F72004AAA34 /* Assets.xcassets */,
 				6AA2D06F1FBF5F73004AAA34 /* LaunchScreen.storyboard */,
 				6AA2D0721FBF5F73004AAA34 /* Info.plist */,
+				6AA2D0781FBF66B6004AAA34 /* American Captain.otf */,
 			);
 			path = "Roll Dice";
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 				6AA2D0711FBF5F73004AAA34 /* LaunchScreen.storyboard in Resources */,
 				6AA2D06E1FBF5F72004AAA34 /* Assets.xcassets in Resources */,
 				6AA2D06C1FBF5F72004AAA34 /* Main.storyboard in Resources */,
+				6AA2D0791FBF66B6004AAA34 /* American Captain.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
